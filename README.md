@@ -80,3 +80,27 @@ The repository will include the final internship report, relevant screenshots, a
 ## Disclaimer
 
 This project was performed in a controlled laboratory environment for educational and defensive cybersecurity purposes.
+
+## Project Screenshots
+
+### 1. ELK SIEM Security Monitoring Dashboard
+
+![ELK SIEM Dashboard](screenshots/08_SIEM_Dashboard.png)
+
+### 2. Failed Login Detection Rule
+
+![Failed Login Rule](screenshots/03_Failed_Login_Rule.png)
+
+### 3. Failed Login Security Alert
+
+![Failed Login Alert](screenshots/04_Failed_Login_Alert.png)
+
+### 4. Sysmon Network Connection Monitoring
+
+![Sysmon Event ID 3](screenshots/07_Sysmon_Network_Logs.png)
+
+## Project Report
+
+The complete internship report is available in the
+[Report Folder](report/).
+
